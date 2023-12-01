@@ -28,11 +28,10 @@ const App = () => {
 
   const router = createBrowserRouter([
     {
-      path: "/Home",
+      path: "/",
       element: (
         <div>
           <Navbar planetList={planetList} />
-          <Outlet />
         </div>
       ),
       children: [
