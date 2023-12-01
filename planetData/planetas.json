@@ -1,0 +1,164 @@
+{
+  "planetas": [
+    {
+      "id": 1,
+      "nome": "Mercúrio",
+      "tamanho": {
+        "diametro_km": 4879.4,
+        "diametro_terrastam": 0.383
+      },
+      "atmosfera": {
+        "composicao": "Exosfera muito fina, quase inexistente",
+        "pressao": "Quase nula"
+      },
+      "caracteristicas": {
+        "gravidade": "0.38 vezes a da Terra",
+        "temperatura_media": "-173°C a 427°C",
+        "satelites": 0,
+        "órbita": "87.97 dias terrestres",
+        "rotação": "58.65 dias terrestres"
+      },
+      "imagem": "link_para_imagem_mercurio.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Vênus",
+      "tamanho": {
+        "diametro_km": 12103.6,
+        "diametro_terrastam": 0.949
+      },
+      "atmosfera": {
+        "composicao": "Principalmente dióxido de carbono, nuvens de ácido sulfúrico",
+        "pressao": "92 vezes a pressão da Terra"
+      },
+      "caracteristicas": {
+        "gravidade": "0.91 vezes a da Terra",
+        "temperatura_media": "462°C",
+        "satelites": 0,
+        "órbita": "224.7 dias terrestres",
+        "rotação": "243 dias terrestres (rotação retrógrada)"
+      },
+      "imagem": "link_para_imagem_venus.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Terra",
+      "tamanho": {
+        "diametro_km": 12756.2,
+        "diametro_terrastam": 1
+      },
+      "atmosfera": {
+        "composicao": "Nitrogênio, oxigênio, argônio, dióxido de carbono",
+        "pressao": "Pressão média ao nível do mar: 1 atm"
+      },
+      "caracteristicas": {
+        "gravidade": "1 vezes a da Terra",
+        "temperatura_media": "14°C",
+        "satelites": "1 (Lua)",
+        "órbita": "365.25 dias terrestres",
+        "rotação": "24 horas"
+      },
+      "imagem": "link_para_imagem_terra.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Marte",
+      "tamanho": {
+        "diametro_km": 6792.4,
+        "diametro_terrastam": 0.532
+      },
+      "atmosfera": {
+        "composicao": "Dióxido de carbono, nitrogênio, argônio",
+        "pressao": "0.006 atmosferas"
+      },
+      "caracteristicas": {
+        "gravidade": "0.38 vezes a da Terra",
+        "temperatura_media": "-87°C",
+        "satelites": "2 (Fobos e Deimos)",
+        "órbita": "687 dias terrestres",
+        "rotação": "24.6 horas"
+      },
+      "imagem": "link_para_imagem_marte.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Júpiter",
+      "tamanho": {
+        "diametro_km": 139822,
+        "diametro_terrastam": 11.209
+      },
+      "atmosfera": {
+        "composicao": "Hidrogênio, hélio, traços de metano, vapor d'água",
+        "pressao": "Cerca de 2 vezes a pressão da Terra"
+      },
+      "caracteristicas": {
+        "gravidade": "2.53 vezes a da Terra",
+        "temperatura_media": "-145°C",
+        "satelites": "79 conhecidos (incluindo 4 galileanos: Ío, Europa, Ganimedes, Calisto)",
+        "órbita": "11.86 anos terrestres",
+        "rotação": "9.9 horas"
+      },
+      "imagem": "link_para_imagem_jupiter.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Saturno",
+      "tamanho": {
+        "diametro_km": 116464,
+        "diametro_terrastam": 9.449
+      },
+      "atmosfera": {
+        "composicao": "Hidrogênio, hélio, traços de metano, vapor d'água",
+        "pressao": "Cerca de 1,5 vezes a pressão da Terra"
+      },
+      "caracteristicas": {
+        "gravidade": "1.07 vezes a da Terra",
+        "temperatura_media": "-178°C",
+        "satelites": "83 conhecidos (incluindo Titã, Encélado, Mimas)",
+        "órbita": "29.46 anos terrestres",
+        "rotação": "10.7 horas"
+      },
+      "imagem": "link_para_imagem_saturno.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Urano",
+      "tamanho": {
+        "diametro_km": 50724,
+        "diametro_terrastam": 4.007
+      },
+      "atmosfera": {
+        "composicao": "Hidrogênio, hélio, metano",
+        "pressao": "Cerca de 1,2 vezes a pressão da Terra"
+      },
+      "caracteristicas": {
+        "gravidade": "0.89 vezes a da Terra",
+        "temperatura_media": "-224°C",
+        "satelites": "27 conhecidos (incluindo Miranda, Ariel, Umbriel)",
+        "órbita": "84 anos terrestres",
+        "rotação": "17.2 horas"
+      },
+      "imagem": "link_para_imagem_urano.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Netuno",
+      "tamanho": {
+        "diametro_km": 49244,
+        "diametro_terrastam": 3.883
+      },
+      "atmosfera": {
+        "composicao": "Hidrogênio, hélio, metano",
+        "pressao": "Cerca de 1,5 vezes a pressão da Terra"
+      },
+      "caracteristicas": {
+        "gravidade": "1.14 vezes a da Terra",
+        "temperatura_media": "-214°C",
+        "satelites": "14 conhecidos (incluindo Tritão, Nereida, Proteu)",
+        "órbita": "164.79 anos terrestres",
+        "rotação": "16.1 horas"
+      },
+      "imagem": "link_para_imagem_netuno.jpg"
+    }
+]}
+    
