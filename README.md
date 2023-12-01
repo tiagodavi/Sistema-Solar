@@ -3,6 +3,7 @@
 Bem-vindo ao Sistema Solar Explorer, um projeto apaixonante que oferece uma viagem virtual através do vasto e fascinante sistema solar! Este repositório é uma fonte aberta para entusiastas do espaço, estudantes e desenvolvedores interessados em explorar e compreender os mistérios do nosso sistema solar.
 
 Recursos Principais:
+
 🌌 Visualização Interativa: Explore de perto cada planeta, lua e objeto do sistema solar com uma interface interativa e gráficos detalhados.
 
 🚀 Informações Detalhadas: Descubra dados precisos sobre órbitas, composição atmosférica, e outros detalhes fascinantes de cada corpo celeste.
